@@ -17,3 +17,7 @@ Nova Notepad är en snabb och enkel textredigerare för Windows.
 
 info@mikaelbengtsson.nu
 
+
+
+
+https://github.com/mikaelbengtsson/NovaNotepad/commit/6938cae1e780df624b3b76232ed69e156f7a82bc#commitcomment-163811017
