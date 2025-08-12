@@ -6,22 +6,14 @@
 
 # Nova Notepad
 
-Nova Notepad är en snabb och enkel textredigerare för Windows.
+**Nova Notepad** är en snabb och modern textredigerare för Windows – med flikar, mörkt läge, drag’n’drop, terminalkommando, filassociation och mycket mer.
 
-## Funktioner
+- **Ladda ner:** [Senaste versionen (installer/EXE)](https://github.com/mikaelbengtsson/NovaNotepad/releases/latest)
+- **Hemsida:** [mikaelbengtsson.nu](https://mikaelbengtsson.nu)
+- **Kontakt:** info@mikaelbengtsson.nu
+- **Donera:** [PayPal](https://www.paypal.com/donate/?hosted_button_id=X6NEDM2QLTYG4)
 
-- Öppna, redigera och spara textfiler (.txt, .log)
-- Integreras med högerklicksmenyn
-- Egen ikon och multispråkig installation
-
-## Installation
-
-1. Ladda ner **NovaNotepad-Setup.exe** från fliken "Releases".
-2. Kör installationsfilen och följ instruktionerna.
-
-## Kontakt
-
-info@mikaelbengtsson.nu
+© 2025 Mikael Bengtsson
 
 
 
