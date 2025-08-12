@@ -1,5 +1,5 @@
+<img width="973" height="711" alt="screenshot" src="https://github.com/user-attachments/assets/ddd73e5d-918e-4656-8760-27228a553a36" />
 
-[screenshot 1](https://github.com/user-attachments/assets/610fca05-0146-4be6-a18a-94b1d58c1c2e)
 
 
 
