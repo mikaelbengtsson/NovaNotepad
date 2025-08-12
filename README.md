@@ -1,5 +1,4 @@
 
-https://github.com/mikaelbengtsson/NovaNotepad/blob/f52448387770a8514a57a2986c4122e0e89fd587/screenshot.png
 
 
 
