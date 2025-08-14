@@ -1,13 +1,9 @@
-<img width="973" height="711" alt="screenshot" src="https://github.com/user-attachments/assets/fc11ff0a-13db-47cd-b741-b8113cbae149" />
-
-
-
-
-
 # Nova Notepad
 
 **Nova Notepad** är en snabb, modern och lättanvänd textredigerare för Windows.  
 Perfekt för allt från anteckningar till kod – inspirerad av Notepad++ men med egen stil.
+
+![Skärmbild av Nova Notepad](https://github.com/user-attachments/assets/fc11ff0a-13db-47cd-b741-b8113cbae149)
 
 ## Funktioner
 - Flikar för flera dokument
@@ -25,8 +21,13 @@ Perfekt för allt från anteckningar till kod – inspirerad av Notepad++ men me
 - **E-post:** info@mikaelbengtsson.nu
 - **Donera:** [PayPal](https://www.paypal.com/donate/?hosted_button_id=X6NEDM2QLTYG4)
 
-© 2025 Mikael Bengtsson
+## Diskutera & Support
+Vill du diskutera utveckling, rapportera buggar eller få support?  
+Besök vårt forum: [Bengtssons Supportforum](https://mikaelbengtsson.nu/forum)
 
+---
+
+© 2025 Mikael Bengtsson
 
 
 
